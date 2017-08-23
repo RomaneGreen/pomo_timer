@@ -1,0 +1,76 @@
+
+
+#clocked{
+  background-color: black;
+}
+
+.project {
+
+text-align: center;
+
+}
+
+.title{
+
+  color:#d2d8e0;
+  font-family: 'Boogaloo', cursive;
+  font-size: 45px;
+}
+
+#clock{
+
+  font-size: 42px;
+  color: red;
+}
+
+
+#plus {
+position: relative;
+top: -40px;
+left: -210px;
+font-size: 16px;
+border-color: grey;
+}
+
+#minus {
+position: relative;
+top: -40px;
+right: 104px;
+font-size: 16px;
+border-color: grey;
+}
+
+
+.ptext {
+  color : white;
+  font-family: 'Fredoka One';
+  font-size: 20px;
+}
+
+
+.btn {
+  margin-left: 10px;
+  border-radius: 28px;
+  font-size: 20px;
+}
+
+
+#begin {
+  background-color: green;
+  border-color: green;
+}
+
+#end {
+  background-color: red;
+  border-color: red;
+}
+
+#over {
+  background-color: blue;
+  border-color:blue;
+}
+
+#rest {
+  background-color: yellow;
+  border-color: yellow;
+}
