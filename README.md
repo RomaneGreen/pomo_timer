@@ -2,3 +2,5 @@
 
 
 Pomordoro Timer 
+
+A pomodoro clock
